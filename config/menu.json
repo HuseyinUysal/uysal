@@ -1,0 +1,61 @@
+{
+  "main": [
+    {
+      "name": "Anasayfa",
+      "url": "/"
+    },
+    {
+      "name": "Hakkımızda",
+      "url": "/about"
+    },
+    {
+      "name": "İletişim",
+      "url": "/contact"
+    },
+    {
+      "name": "Bölümler",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Yazarlar",
+          "url": "/authors"
+        },
+        {
+          "name": "Kategoriler",
+          "url": "/categories"
+        },
+        {
+          "name": "Başlıklar",
+          "url": "/tags"
+        },
+        {
+          "name": "Ürünler",
+          "url": "/elements"
+        },
+        {
+          "name": "Gizlilik Politikası",
+          "url": "/privacy-policy"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Hakkımızda",
+      "url": "/about"
+    },
+    {
+      "name": "İletişim",
+      "url": "/contact"
+    },
+    {
+      "name": "Ürünler",
+      "url": "/elements"
+    },
+    {
+      "name": "Gizlilik Politikası",
+      "url": "/privacy-policy"
+    }
+  ]
+}
