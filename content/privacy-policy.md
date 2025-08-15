@@ -1,5 +1,5 @@
 ---
-title: "Gizlilik"
+title: "Gizlilik Politikası"
 description: "bu meta açıklamasıdır"
 draft: false
 ---

@@ -21,7 +21,7 @@ const Tag = ({ params }) => {
       <div className="section">
         <div className="container">
           <h1 className="h2 mb-8 text-center">
-            Showing posts from <span className="text-primary">{tag}</span> tag
+            Bu gönderiden gösterilen <span className="text-primary">{tag}</span> başlık
           </h1>
           <Posts posts={filterPosts} authors={authors} />
         </div>

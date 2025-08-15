@@ -13,7 +13,7 @@ const Tags = async () => {
       <SeoMeta title={"Tags"} />
       <section className="section min-h-dvh">
         <div className="container text-center">
-          {markdownify("Tags", "h1", "h2 mb-16")}
+          {markdownify("Başlıklar", "h1", "h2 mb-16")}
           <ul className="space-x-4">
             {tags.map((category, i) => (
               <li key={`category-${i}`} className="inline-block">
